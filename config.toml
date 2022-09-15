@@ -1,0 +1,26 @@
+languageCode = 'en-us'
+title = 'Wild Open, the Open Source Expertise'
+baseURL = "/"
+themesDir = "themes"
+theme = "hugo-hero-theme"
+
+[params.homepage_meta_tags]
+meta_description = "Wild Open is the Open Source company expertise to build software and provide you with talents."
+meta_og_title = "Wild Open, Open Source Expertise"
+meta_og_type = "website"
+meta_og_url = "https://wildopen.cc"
+meta_og_image = "https://wildopen.cc/images/tn.png"
+meta_og_description = "Wild Open is the Open Source company expertise to build software and provide you with talents."
+meta_twitter_card = "summary"
+meta_twitter_site = "@WildOpen4"
+meta_twitter_creator = "@WildOpen4"
+
+[params]
+  [params.logo]
+    mobile = "images/wildopen.png"
+    mobile_height = "40"
+    mobile_width = ""
+    desktop = "images/wildopen.png"
+    desktop_height = "50"
+    desktop_width = ""
+    alt = "Wild Open"

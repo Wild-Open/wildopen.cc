@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Github",
+        "link": "https://github.com/Wild-Open/",
+        "image": "social/github.svg"
+    },
+    {
+        "name": "Twitter",
+        "link": "https://twitter.com/WildOpen4",
+        "image": "social/twitter.svg"
+    }
+]
