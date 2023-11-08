@@ -1,55 +1,32 @@
 ---
-title: 'The Right One'
+title: 'Staff On Demand'
 date: 2018-11-28T15:15:34+10:00
 icon: 'services/service-icon-4.png'
 featured: true
 draft: false
 heroHeading: 'Contract-to-hire'
-heroSubHeading: 'Thinking of acquiring another business? Let us guide you through the process.'
+heroSubHeading: 'Do you have a hard time to ensure the perfect staff? We get you covered.'
 heroBackground: 'services/service2.jpg'
 ---
 
 We assess your needs and find a candidate who best fits the role. Then, we’ll assign them to your company on a contract basis.
 
 
-## Ne verba patulosque numen vix libet
+## Paid Early, 100% guaranteed
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+We pay your service providers in advance for absolute satisfaction.
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+### A Very Simple Process
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+1. You validate the candidate
+2. We contract with him with an NDA so you are protected
+3. He does the job and sends us the invoice
+4. Are you satisfied? S·he gets paid immediatly
+5. You get our invoice with payement facilities
 
-## Postquam tamen
+### A Happy Team
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+Your Staff gets paid upon request. Yet you don't have to.
+We offer payment facilities and even if you pay yearly your team remains paid quick.
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
-
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+That's how we keep them relaxed and focused on their work, your satisfaction!

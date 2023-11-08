@@ -1,15 +1,13 @@
 ---
-title: 'Are you a Freelance or an employee?'
+title: 'Your Business Need Automation'
 weight: 2
 background: ''
-button: 'Visit Wop'
-buttonLink: 'https://wop.studio'
+button: 'Contact Us'
+buttonLink: 'contact'
 ---
 
-We offer the best of both worlds with Wop.
+Computers are made to make your life easier, not harder.
 
-Wop is the platform for the next generation of freelancers.
-France has always been known to have great working conditions.
-That's why we are developing right now in France and getting inspired for the rest of the world.
+Automation is our expertise. Forget about Zapier or AirTable, we have the real tools here that get your cover for all cases. For real.
 
-If you want to know more about working in great conditions, visit us at Wop!
+Stop depending on an external tooling that will break sooner or later. We install your own tooling that will last even beyond us!
